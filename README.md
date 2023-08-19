@@ -6,4 +6,4 @@ Assignment submissions made in the course CS771A (Introduction to Machine Learni
 - Aayushman
 - Shubh Tandon
 - Arpit Kumar
-- Me :)
+- Udit Prasad
